@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/12 09:20:20.000.831,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/27 11:20:37.000.477,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/28 10:36:07.000.901,=C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/28 10:36:35.000.735,C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\352\Icaro\Splash\Usplash.pas</Transaction>
+    <Transaction>2022/04/28 10:36:35.000.735,C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\352\Icaro\Splash\Usplash.dfm</Transaction>
+    <Transaction>2022/04/28 10:36:44.000.088,C:\Users\3os Anos\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\352\Icaro\Splash\SplashScreen.dproj</Transaction>
+    <Transaction>2022/04/28 10:48:52.000.164,=C:\352\Icaro\Splash\Unit1.pas</Transaction>
+    <Transaction>2022/04/28 10:49:03.000.124,C:\352\Icaro\Splash\Unit1.pas=C:\352\Icaro\Splash\Usplash2.pas</Transaction>
+    <Transaction>2022/04/28 10:49:03.000.124,C:\352\Icaro\Splash\Unit1.dfm=C:\352\Icaro\Splash\Usplash2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

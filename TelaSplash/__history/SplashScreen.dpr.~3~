@@ -1,0 +1,16 @@
+program SplashScreen;
+
+uses
+  Vcl.Forms,
+  Usplash in 'Usplash.pas' {frm_principal},
+  Usplash2 in 'Usplash2.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(Tfrm_principal, frm_principal);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
